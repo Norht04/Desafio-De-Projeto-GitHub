@@ -1,2 +1,2 @@
 # Desafio de Projeto Git/GitHub da DIO 👨‍🎓
-Desafio de projeto Git/GitHub
+Repositorio criado para o Desafio de Projeto 
